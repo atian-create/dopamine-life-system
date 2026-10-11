@@ -1,0 +1,260 @@
+{
+  "lang": "en",
+  "name": "Lin",
+  "title": "Life system",
+  "motto": "Write down your experiences. Find a rhythm that feels like you.",
+  "identity": [
+    [
+      "Role",
+      "Independent creator · fictional example"
+    ],
+    [
+      "Working style",
+      "Small experiments, shared along the way"
+    ],
+    [
+      "Collaboration",
+      "Own the creative work; automate repetition"
+    ],
+    [
+      "Now",
+      "Life stories, creative experiments and one project"
+    ]
+  ],
+  "sections": [
+    {
+      "id": "who",
+      "color": "pink",
+      "title": "Who I am",
+      "description": "Look for repeated behaviors in your own experiences. Replace these examples with your records.",
+      "cards": [
+        {
+          "label": "Curiosity",
+          "title": "Try a small experiment first",
+          "body": "Reserve a weekend for walking, noticing and making.",
+          "action": "Try a version you can finish in a day."
+        },
+        {
+          "label": "Sharing",
+          "title": "Make it, then tell a friend",
+          "body": "Document the process and surprises, alongside the outcome.",
+          "action": "Write one step someone else can follow."
+        },
+        {
+          "label": "Rhythm",
+          "title": "Protect an uninterrupted block",
+          "body": "A focused block, followed by time outdoors.",
+          "action": "Schedule rest too."
+        },
+        {
+          "label": "Values",
+          "title": "Choose work you can sustain",
+          "body": "Consider how you feel after doing a project.",
+          "action": "Write down why you chose it."
+        }
+      ]
+    },
+    {
+      "id": "talent",
+      "color": "orange",
+      "title": "Clues to my strengths",
+      "description": "This is reflection, not a psychological assessment. Use behaviors, evidence and situations.",
+      "cards": [
+        {
+          "label": "Expression",
+          "title": "Explain a small discovery clearly",
+          "body": "Example evidence: a friend can reproduce your steps.",
+          "action": "Useful for tutorials, talks and introductions."
+        },
+        {
+          "label": "Observation",
+          "title": "Notice everyday details",
+          "body": "Example evidence: notice three styles of shop signs on a walk.",
+          "action": "Useful for city stories, topics and design."
+        },
+        {
+          "label": "Synthesis",
+          "title": "Turn scattered notes into one page",
+          "body": "Example evidence: turn travel notes into a map.",
+          "action": "Useful for checklists, templates and reflection."
+        }
+      ]
+    },
+    {
+      "id": "voice",
+      "color": "blue",
+      "title": "How I express myself",
+      "description": "Capture your own language habits without forcing a persona.",
+      "cards": [
+        {
+          "label": "Opening",
+          "title": "Start with a small moment",
+          "body": "On my walk today, I found a place that…",
+          "action": "Make the scene concrete."
+        },
+        {
+          "label": "Process",
+          "title": "Show your process",
+          "body": "I tried this version first, then changed one thing.",
+          "action": "Show a comparison or a process screenshot."
+        },
+        {
+          "label": "Ending",
+          "title": "Leave an actionable starting point",
+          "body": "You can start with one small note of your own.",
+          "action": "Offer a step, a template or an example."
+        }
+      ]
+    },
+    {
+      "id": "edge",
+      "color": "red",
+      "title": "My boundaries",
+      "description": "Use your own criteria before turning every opportunity into a task.",
+      "cards": [
+        {
+          "label": "Time",
+          "title": "Keep some unscheduled time",
+          "body": "Check whether a last-minute task interrupts rest.",
+          "action": "Agree on a clear deadline."
+        },
+        {
+          "label": "Scope",
+          "title": "One focus for this season",
+          "body": "Put new ideas on a list to try later.",
+          "action": "Decide at your next review."
+        },
+        {
+          "label": "Collaboration",
+          "title": "Clarify deliverables and ownership",
+          "body": "Define what you own and what needs help.",
+          "action": "Align with a one-page brief."
+        }
+      ]
+    },
+    {
+      "id": "biz",
+      "color": "mint",
+      "title": "What I am working on",
+      "description": "Put life, creative work and projects on the same map.",
+      "cards": [
+        {
+          "label": "Life",
+          "title": "One city walk each week",
+          "body": "Record streets, food and people you meet.",
+          "action": "One page of walking notes each week."
+        },
+        {
+          "label": "Creative work",
+          "title": "Make a weekend mini-zine",
+          "body": "Combine photos and notes into a shareable page.",
+          "action": "Start with a four-page version."
+        },
+        {
+          "label": "Project",
+          "title": "Turn experience into a template",
+          "body": "Use examples you have actually tried.",
+          "action": "Ask one friend to try it."
+        }
+      ]
+    },
+    {
+      "id": "block",
+      "color": "yellow",
+      "title": "Where I get stuck",
+      "description": "Turn each obstacle into an adjustable action. Start with one.",
+      "cards": [
+        {
+          "label": "Starting",
+          "title": "Waiting for a perfect version",
+          "body": "Finish one page you can open.",
+          "action": "Make only the first page today."
+        },
+        {
+          "label": "Switching",
+          "title": "Too many ideas split my attention",
+          "body": "Capture ideas, then choose once a week.",
+          "action": "Keep one active piece of work."
+        },
+        {
+          "label": "Reviewing",
+          "title": "Forgetting to document the result",
+          "body": "Save a screenshot and three sentences when you finish.",
+          "action": "Record what you made, learned and will change."
+        }
+      ]
+    },
+    {
+      "id": "run",
+      "color": "lime",
+      "title": "My operating rhythm",
+      "description": "Make a plan you can follow and adjust.",
+      "cards": [
+        {
+          "label": "Daily",
+          "title": "Finish one small thing",
+          "body": "Choose one action and make time for it.",
+          "action": "Write one discovery in the evening."
+        },
+        {
+          "label": "Weekly",
+          "title": "Keep a weekly page",
+          "body": "Notice what gives energy and what needs less time.",
+          "action": "Choose one focus for next week."
+        },
+        {
+          "label": "Monthly",
+          "title": "Revisit direction",
+          "body": "Decide what to continue and what to pause.",
+          "action": "Update this life-system page."
+        }
+      ]
+    },
+    {
+      "id": "next",
+      "color": "purple",
+      "title": "What I could try next",
+      "description": "Choose one based on interest and capacity. No need to start everything.",
+      "cards": [
+        {
+          "label": "Green light",
+          "title": "Make a walking map",
+          "body": "Reuse your photos and route; share with a friend.",
+          "action": "Finishable in one weekend."
+        },
+        {
+          "label": "Amber light",
+          "title": "Try a small talk",
+          "body": "Talk about one project you actually made.",
+          "action": "Check preparation time before committing."
+        },
+        {
+          "label": "Red light",
+          "title": "Start three projects at once",
+          "body": "It may fragment your time.",
+          "action": "Keep it on the later list."
+        }
+      ]
+    }
+  ],
+  "loop": [
+    "Notice life",
+    "Try making",
+    "Document it",
+    "Share with friends"
+  ],
+  "energy": {
+    "charge": [
+      "Walking and travel",
+      "Making something small",
+      "Sharing discoveries",
+      "Uninterrupted rest"
+    ],
+    "drain": [
+      "Too much task switching",
+      "Unbounded requests",
+      "Posting just to post",
+      "Sitting without breaks"
+    ]
+  }
+}

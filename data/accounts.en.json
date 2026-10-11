@@ -1,0 +1,331 @@
+{
+  "lang": "en",
+  "name": "Lin",
+  "title": "Account planner",
+  "subtitle": "What each account posts, who it serves and what it does, on one page.",
+  "accounts": [
+    {
+      "id": "a1",
+      "name": "Lin Makes Things",
+      "role": "Personal · Experiences",
+      "color": "pink",
+      "lane": 0,
+      "audience": "People turning experience into creations",
+      "purpose": "Share real experiences",
+      "frequency": "One post a week · example",
+      "series": [
+        {
+          "name": "Experience logs",
+          "examples": [
+            "I turned a weekend walk into a map",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Working methods",
+          "examples": [
+            "From notes to sharing: the steps",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Choices",
+          "examples": [
+            "One small project this month",
+            "Try the same theme in a different everyday scene"
+          ]
+        }
+      ],
+      "production": [
+        "Show the thing you actually made first.",
+        "Explain one step with screenshots or a recording."
+      ],
+      "exclude": [
+        "Content outside this account’s purpose.",
+        "Unverified metrics or other people’s private information."
+      ]
+    },
+    {
+      "id": "a2",
+      "name": "AI Creative Lab",
+      "role": "Personal · Creations",
+      "color": "orange",
+      "lane": 0,
+      "audience": "People making images, animation and pages",
+      "purpose": "Share real experiences",
+      "frequency": "One post a week · example",
+      "series": [
+        {
+          "name": "Showcases",
+          "examples": [
+            "An animated card for my photo",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Before and after",
+          "examples": [
+            "One text, two different pages",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Tutorials",
+          "examples": [
+            "Turn a week of photos into a mini-zine",
+            "Try the same theme in a different everyday scene"
+          ]
+        }
+      ],
+      "production": [
+        "Show the thing you actually made first.",
+        "Explain one step with screenshots or a recording."
+      ],
+      "exclude": [
+        "Content outside this account’s purpose.",
+        "Unverified metrics or other people’s private information."
+      ]
+    },
+    {
+      "id": "a3",
+      "name": "Content Companion",
+      "role": "Content tool · Product",
+      "color": "blue",
+      "lane": 1,
+      "audience": "Creators organizing topics",
+      "purpose": "Example content tool",
+      "frequency": "One post a week · example",
+      "series": [
+        {
+          "name": "Common questions",
+          "examples": [
+            "Three types of notes to sort first",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Quick workflows",
+          "examples": [
+            "Group ten ideas into three series",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Template demos",
+          "examples": [
+            "My content map on one page",
+            "Try the same theme in a different everyday scene"
+          ]
+        }
+      ],
+      "production": [
+        "Show the thing you actually made first.",
+        "Explain one step with screenshots or a recording."
+      ],
+      "exclude": [
+        "Content outside this account’s purpose.",
+        "Unverified metrics or other people’s private information."
+      ]
+    },
+    {
+      "id": "a4",
+      "name": "Creator Notes",
+      "role": "Content tool · Stories",
+      "color": "purple",
+      "lane": 1,
+      "audience": "People interested in the creative process",
+      "purpose": "Example content tool",
+      "frequency": "One post a week · example",
+      "series": [
+        {
+          "name": "Reflections",
+          "examples": [
+            "What made me happy after my first page",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Process logs",
+          "examples": [
+            "The step I changed when stuck",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Answers",
+          "examples": [
+            "Start a project with limited time",
+            "Try the same theme in a different everyday scene"
+          ]
+        }
+      ],
+      "production": [
+        "Show the thing you actually made first.",
+        "Explain one step with screenshots or a recording."
+      ],
+      "exclude": [
+        "Content outside this account’s purpose.",
+        "Unverified metrics or other people’s private information."
+      ]
+    },
+    {
+      "id": "a5",
+      "name": "Little Game Diary",
+      "role": "Games · Creations",
+      "color": "lime",
+      "lane": 2,
+      "audience": "Players who enjoy small, relaxing games",
+      "purpose": "Example game project",
+      "frequency": "One post a week · example",
+      "series": [
+        {
+          "name": "Updates",
+          "examples": [
+            "A new street in my little game",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "How to play",
+          "examples": [
+            "Your first move in the game",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Quiet moments",
+          "examples": [
+            "A rainy moment in the game",
+            "Try the same theme in a different everyday scene"
+          ]
+        }
+      ],
+      "production": [
+        "Show the thing you actually made first.",
+        "Explain one step with screenshots or a recording."
+      ],
+      "exclude": [
+        "Content outside this account’s purpose.",
+        "Unverified metrics or other people’s private information."
+      ]
+    },
+    {
+      "id": "a6",
+      "name": "Game Workshop",
+      "role": "Games · Tool",
+      "color": "yellow",
+      "lane": 2,
+      "audience": "People making their first game",
+      "purpose": "Example game project",
+      "frequency": "One post a week · example",
+      "series": [
+        {
+          "name": "One-line starts",
+          "examples": [
+            "Turn a walking route into a game",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Template demos",
+          "examples": [
+            "The first version of a tiny shop game",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Making-of",
+          "examples": [
+            "From an idea to a playable page",
+            "Try the same theme in a different everyday scene"
+          ]
+        }
+      ],
+      "production": [
+        "Show the thing you actually made first.",
+        "Explain one step with screenshots or a recording."
+      ],
+      "exclude": [
+        "Content outside this account’s purpose.",
+        "Unverified metrics or other people’s private information."
+      ]
+    },
+    {
+      "id": "a7",
+      "name": "Visual Assets",
+      "role": "Visuals · Resources",
+      "color": "mint",
+      "lane": 3,
+      "audience": "People looking for covers and motion assets",
+      "purpose": "Example visual templates",
+      "frequency": "One post a week · example",
+      "series": [
+        {
+          "name": "Cover examples",
+          "examples": [
+            "Three colorful covers for a walking map",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Motion examples",
+          "examples": [
+            "Make a static card bounce gently",
+            "Try the same theme in a different everyday scene"
+          ]
+        },
+        {
+          "name": "Resource collections",
+          "examples": [
+            "Stickers for weekend notes",
+            "Try the same theme in a different everyday scene"
+          ]
+        }
+      ],
+      "production": [
+        "Show the thing you actually made first.",
+        "Explain one step with screenshots or a recording."
+      ],
+      "exclude": [
+        "Content outside this account’s purpose.",
+        "Unverified metrics or other people’s private information."
+      ]
+    }
+  ],
+  "lanes": [
+    {
+      "name": "Personal expression",
+      "description": "Experiences and creations help people get to know you."
+    },
+    {
+      "name": "Content and methods",
+      "description": "Separate tool demonstrations from personal stories."
+    },
+    {
+      "name": "Games and making",
+      "description": "Show the game to players and the making process to creators."
+    },
+    {
+      "name": "Visuals and resources",
+      "description": "Turn images and motion into useful templates."
+    }
+  ],
+  "campaign": "Example theme: turn a weekend walk into a small game",
+  "angles": [
+    "Explain why you made it",
+    "Show the before and after",
+    "Organize launch topics",
+    "Reflect on making it",
+    "Show a minute of gameplay",
+    "Explain one making step",
+    "Make a set of covers"
+  ],
+  "rules": [
+    "Give each account a clear purpose.",
+    "Tell different sides of one story instead of copying it.",
+    "Set frequency by capacity; allow yourself to reduce it.",
+    "Record metric sources and dates; never invent numbers.",
+    "Check the platform’s current rules before posting.",
+    "Keep client and partnership details out of public content."
+  ]
+}
